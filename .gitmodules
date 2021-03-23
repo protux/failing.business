@@ -1,0 +1,9 @@
+[submodule "hugo-theme-introduction"]
+	path = hugo-theme-introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "themes/introduction"]
+	path = themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "themes/blonde"]
+	path = themes/blonde
+	url = https://github.com/opera7133/Blonde.git
