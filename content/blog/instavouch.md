@@ -16,8 +16,8 @@ Das benutzt eben nicht nur Tante Friede, die Angst vorm Online Banking hat, nein
 
 Jedenfalls habt ihr in der Zwischenzeit alle schon eure Taschenrechner rausgeholt und gemerkt, dass das ein Vollzeitjob für 1-2 Personen wäre. In der Theorie. In der Praxis wäre es ein kleiner Nebenverdienst, wenn das nicht zu stressig würde. Aber schön zu sehen, dass auch die [widerlichste Konkurrenz](https://gftcards.de/maintenance) die Tore schließen musste.
 
-# Fazit
+## Fazit
 Das ist natürlich nur eine stark verkürzte Version. Das Abenteuer hat Spaß gemacht und alle haben etwas gelernt. Ich bereue nichts, aber ein Abenteuer für die Ewigkeit war es leider nicht.
 
-# Lukrativitätseinschätzung
+## Lukrativitätseinschätzung
 Nun, da dies hier kein fiktives Beispiel sondern eine Erfahrung ist gibt es hier ganz klar einen 👎 für die monetäre Lukrativität, aber einen klares 👍 für den Lernfaktor.
